@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-delivery-promises-nextjs",
+  "capabilityKey": "planned:ecommerce:delivery-promises",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-ecommerce-delivery-promises-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/ecommerce/nextjs/delivery-promises.md",
+  "presentationPlan": "projects/ecommerce/nextjs/delivery-promises.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
